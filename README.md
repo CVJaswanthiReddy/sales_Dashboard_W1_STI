@@ -1,5 +1,5 @@
 # Sales_Dashboard
-          Welcome to the Sales Dashboard! This tool is designed to provide a comprehensive overview of your sales performance, helping you make informed decisions and track key metrics. This README file will guide you through the installation, configuration, and usage of the Sales Dashboard.
+Welcome to the Sales Dashboard! This tool is designed to provide a comprehensive overview of your sales performance, helping you make informed decisions and track key metrics. This README file will guide you through the installation, configuration, and usage of the Sales Dashboard.
 
 ![SALes](https://github.com/CVJaswanthiReddy/sales_Dashboard_W1_STI/assets/138797809/da046f23-1919-4deb-847b-53b126e1186b)
 
